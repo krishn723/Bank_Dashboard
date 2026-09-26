@@ -1,0 +1,36 @@
+{
+  "users": [
+    {
+      "account_no": "SB10000001",
+      "name": "Krishan_Kumar",
+      "email": "krishansaini5152@gmail.com",
+      "phone": "9660515208",
+      "pin_hash": "scrypt:32768:8:1$2yc5X9Lp3hJv2yry$75391dfcc9fb6f1e621765d961ee92009e39d356d8201a850a475c1b4a6478559af987a5957fe6a960823be74ecd7e65a01452f5286ed9ed2667fb2609bb6167",
+      "created_at": "2026-09-26T10:46:37",
+      "status": "Active"
+    }
+  ],
+  "transactions": [
+    {
+      "id": "6D73F529645B",
+      "account_no": "SB10000001",
+      "type": "credit",
+      "amount": 0.0,
+      "category": "Opening",
+      "description": "Account opened",
+      "channel": "Account",
+      "created_at": "2026-09-26T10:46:37"
+    }
+  ],
+  "cards": [
+    {
+      "account_no": "SB10000001",
+      "card_no": "5399479806622265",
+      "status": "Active",
+      "type": "Debit Card",
+      "created_at": "2026-09-26T10:46:37"
+    }
+  ],
+  "upi": [],
+  "otps": []
+}

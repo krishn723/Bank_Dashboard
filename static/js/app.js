@@ -1,0 +1,1 @@
+document.addEventListener('DOMContentLoaded',()=>{document.querySelectorAll('input[inputmode="numeric"]').forEach(i=>i.addEventListener('input',()=>{if(i.maxLength>0)i.value=i.value.replace(/\D/g,'').slice(0,i.maxLength)}));});
