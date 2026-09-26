@@ -255,6 +255,6 @@ def not_found(e): return render_template('error.html', code=404, message='The pa
 @app.errorhandler(500)
 def server_error(e): return render_template('error.html', code=500, message='Something went wrong while processing your request.'),500
 
-if __name__=='__main__':
+if __name__ == '__main__':
     print('SmartBank running at http://127.0.0.1:5000')
     app.run(debug=True, host='127.0.0.1', port=5000)
