@@ -2,6 +2,13 @@
 
 A responsive Flask banking dashboard that uses **only a local JSON text file** as its database. MongoDB is completely removed.
 
+<h2>🎥 Project Demo</h2>
+
+<video width="900" controls>
+  <source src="https://github.com/krishn723/Bank_Dashboard/raw/main/data/Bank_Dashboard.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 ## Run on Windows
 
 ```bat
