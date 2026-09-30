@@ -4,7 +4,12 @@ A responsive Flask banking dashboard that uses **only a local JSON text file** a
 
 ## 🎥 Project Demo
 
-<video src="data/Bank_Dashboard.mp4" controls width="900"></video>
+
+
+https://github.com/user-attachments/assets/9fd86eb4-9375-4a52-8a6e-b9e86f5a86f7
+
+
+
 
 ## Run on Windows
 
